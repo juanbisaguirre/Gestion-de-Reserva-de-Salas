@@ -1,0 +1,9 @@
+h1{
+    text-align: center;
+}
+
+
+.list-group ul li {
+    display: inline-table;
+    min-width: 74px;
+}
